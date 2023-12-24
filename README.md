@@ -1,20 +1,45 @@
 # Kiwii
-University repository for files and handouts of content shared between students and teachers.
+Repositório universitário para arquivos e materiais compartilhados entre alunos e professores.
 
-![kiwii logo](https://github.com/HarrisonBorgess/Kiwii-main/assets/73191690/c2732418-920f-4f47-97b2-b16c3a6529e7)
+![Logo do Kiwii](https://github.com/HarrisonBorgess/Kiwii-main/assets/73191690/c2732418-920f-4f47-97b2-b16c3a6529e7)
 
-## Description
+## Descrição
 
-Its objective is to centralize in one environment all content pertinent to or related to the subjects in which students are currently enrolled or also to specific topics present in their course. It is a way of bringing together an additional layer of knowledge, through the collection of content available on the internet that is analyzed by students and teachers.
+O objetivo do Kiwii é centralizar em um ambiente único todo o conteúdo pertinente ou relacionado às disciplinas em que os alunos estão matriculados, bem como a tópicos específicos presentes em seus cursos. Trata-se de uma maneira de reunir uma camada adicional de conhecimento, por meio da coleta de conteúdo disponível na internet, analisado por alunos e professores.
 
-Very useful for reinforcing an important concept covered in class, giving the student the opportunity to have contact with another didactic perspective, also to give consistency and depth to some study that was done superficially in the classroom.
+Muito útil para reforçar conceitos importantes abordados em aula, proporcionando ao aluno a oportunidade de ter contato com outra perspectiva didática, além de conferir consistência e profundidade a algum estudo feito superficialmente em sala de aula.
 
-This content is shared through links (url) that direct to videos, websites, or articles, documentation relating to the discipline. The content remains available in this sharing space and can be deleted by the student who posted the url, however the teacher has the power to delete some type of content that was shared, if he does not deem it relevant to the context of the course. 
-Each enrolled student has their ID record and also has subjects in which they are enrolled. Simply fill in the rm field providing your enrollment record and the desired subject.
+O conteúdo é compartilhado por meio de links (URLs) que direcionam para vídeos, sites ou artigos, documentação relacionada à disciplina. O conteúdo permanece disponível neste espaço de compartilhamento e pode ser excluído pelo aluno que postou o URL. No entanto, o professor tem o poder de excluir algum tipo de conteúdo compartilhado, caso não o considere relevante para o contexto do curso.
+Cada aluno matriculado possui seu registro de ID e também está inscrito em disciplinas específicas. Basta preencher o campo "rm" fornecendo seu registro de matrícula e a disciplina desejada.
 
-The Application code was developed in Java, using the Spring boot framework
+O código da aplicação foi desenvolvido em Java, utilizando o framework Spring Boot.
 
-## Contributors:
+## Tutorial de Uso
+
+### Pré-requisitos
+- Java 21+
+- PostgreSQL 16+
+
+### Passos
+
+1. **Clonagem do Repositório:**
+   ```
+   git clone https://github.com/HarrisonBorgess/Kiwii-main.git
+   cd Kiwii-main
+   ```
+
+2. **Configuração do Banco de Dados:**
+   - Crie um banco de dados PostgreSQL.
+   - Atualize as configurações de banco de dados no arquivo `application.properties`.
+
+
+3. **Registro e Uso:**
+   - Faça login com seu ID de aluno.
+   - Escolha a disciplina desejada.
+   - Compartilhe links úteis e acesse o conteúdo compartilhado por outros alunos e professores.
+
+
+## Criado e feito pelos alunos:
 
 Harrison Borges = https://github.com/HarrisonBorgess
 
