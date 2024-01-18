@@ -1,8 +1,6 @@
 # Kiwii
 Repositório universitário para arquivos e apostilas de conteúdos compartilhados entre alunos e professores.
 
-![Kiwii (1)](https://github.com/iagoroque/Kiwii/assets/95505514/ecf786a0-7427-48ad-80b0-f08a09829be8)
-
 ## Primeiros Passos:
 
 #### 🔹 Marque esse projeto com uma ⭐
@@ -26,4 +24,7 @@ Repositório universitário para arquivos e apostilas de conteúdos compartilhad
 ### Como fazer o download: 
 
 #### 🔹 Fork
-1 - Faça o <strong>fork</strong> do projeto. No lado superior direito, ao clicar no ícone ele criará um repositório do projeto em sua conta pessoal do GitHub. </br>
+1 - Faça o download do projeto,clique no botão code e em seguida em download zip
+![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/c50040c7-e9f3-4e4a-9c6c-ca75ccd0e0e3)
+
+
