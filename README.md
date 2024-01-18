@@ -34,7 +34,7 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/f6840f4e-d853-4c42-9cf4-a4e2226f4751) 
 #### 5- Coloque o nome da database como Kiwii e dê um save </br></br>
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/e7095f35-a0b9-447d-b94b-e6f5fab9d8c1) 
-#### 6- Feito isso você deve ir ao seu Vscode e dar um Run no Projeto,para fazer isso clique na pasta Kiwii - src - main - KiwiiApplication </br></br>
+#### 6- Feito isso você deve ir ao seu Vscode e dar um Run no Projeto,para fazer isso clique na pasta Kiwii - src - main - KiwiiApplication e clique no run </br></br>
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/1cc9e43b-ca1a-4638-8f1c-204a78c41bd0)  
 #### 7- Abra o seu navegador e na barra de pesquisa, e digite  localhost:8080 e dê enter
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/514e155e-98b5-45eb-ab8b-bada92fa74f9)
