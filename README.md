@@ -11,6 +11,8 @@
 - Java
 - Banco de dados SQL
 - Spring Boot e suas bibliotecas
+- HTML
+- CSS
 - Vscode
 
 ## ⚠️ Importante! ⚠️
