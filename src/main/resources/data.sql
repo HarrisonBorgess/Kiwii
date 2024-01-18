@@ -14,6 +14,7 @@
     ('10003', 'Professor'),
     ('10004', 'Professor'),
     ('10005', 'Professora'),
+    ('20240005', 'Aluno'),
     ('20210001', 'Oseias Lopes'),
     ('20210002', 'Iago Roque'),
     ('20210003', 'Harrison Borges'),
@@ -26,11 +27,18 @@
     ('10005001','LPA'),
     ('10005001','BD'),
     ('10005001','IA'),
+
     ('10001', 'POO'), -- Professora de POO 
     ('10002', 'GDC'), -- Professor de gestão
     ('10003', 'LPA'), -- Professor de LPA
     ('10004', 'BD'), -- Professor de BD
     ('10005', 'IA'), -- Professora de IA
+
+    ('20240005', 'GDC') -- Aluno 
+    ('20240005', 'POO'),
+    ('20240005', 'LPA'),
+    ('20240005', 'BD'),
+    ('20240005', 'IA'),
     ('20210001', 'GDC'), -- Oseias
     ('20210001', 'LPA'),
     ('20210001', 'BD'),

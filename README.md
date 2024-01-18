@@ -1,5 +1,5 @@
 # Kiwii
-Repositório universitário para arquivos e apostilas de conteúdos compartilhados entre alunos e professores.
+📚 Bem-vindo ao Repositório Universitário, esse projeto permite compartilhar conhecimentos adicionais fora da sala de aula com links relevantes, como artigos e vídeos, relacionados à matéria escolhida. Contribuindo com conteúdo de qualidade e fornecendo novas formas de aprendizagem,o repositorio veio como o conceito de uma plataforma enriquecedora para a troca de saberes!
 
 ## Primeiros Passos:
 
@@ -45,14 +45,14 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 
 #### 🔹 Temos os Logins de Alunos,Professores e o Administrador.
 #### 🔹 O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela ucsal,quando for necessario.
-#### 🔹 Os Alunos poderão apagar somente o link que ele mesmo postar.
+#### 🔹 Os alunos poderão apagar somente o link que ele mesmo postar.
 #### 🔹 O Professor poderá apagar o link de qualquer aluno (mas somente da materia que ele ensina).
 
 #### 🔹 Deixarei abaixo os logins para o uso do projeto:
 
 #### 🔹 Login 10005001 é do administrador.
 #### 🔹 Logins 1001 até 1005 são dos professores que tem disponivel no projeto que no caso são 5.
-#### 🔹 Login do estudante 20240005.
+#### 🔹 Login do aluno é 20240005.
 
 
 
