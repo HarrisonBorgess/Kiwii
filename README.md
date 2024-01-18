@@ -9,9 +9,9 @@
 ## 🖥️ Tecnologias Utilizadas:
 
 - Java
-- Vscode
 - Banco de dados SQL
 - Spring Boot e suas bibliotecas
+- Vscode
 
 ## ⚠️ Importante! ⚠️
 
