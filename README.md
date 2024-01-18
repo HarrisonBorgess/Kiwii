@@ -22,8 +22,6 @@
 ⬇️Link PostgreSQL : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads </br></br>
 📝 Utilizar o editor da sua preferencia,utilizei o vscode,mas poderia ser o eclipe ou intellij </br></br>
 
-### Como usar o projeto: 
-
 #### 🔹 Baixar o projeto 
 Suba para o inicio da pagina e faça o download do projeto,clique no botão code e em seguida em download zip </br></br>
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/c50040c7-e9f3-4e4a-9c6c-ca75ccd0e0e3) </br></br>
@@ -43,16 +41,22 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 
 #### 🔹 Como usar o projeto
 
-#### 🔹 Temos os Logins de Alunos,Professores e o Administrador.
-#### 🔹 O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela ucsal,quando for necessario.
-#### 🔹 Os alunos poderão apagar somente o link que ele mesmo postar.
-#### 🔹 O Professor poderá apagar o link de qualquer aluno (mas somente da materia que ele ensina).
+#### 1- Temos os Logins de Alunos,Professores e o Administrador.
+#### 2- O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela ucsal,quando for necessario.
+#### 3- Os alunos poderão apagar somente o link que ele mesmo postar.
+#### 4- O Professor poderá apagar o link de qualquer aluno (mas somente da materia que ele ensina).
 
-#### 🔹 Deixarei abaixo os logins para o uso do projeto:
+#### Logins disponiveis para o uso do projeto:
 
-#### 🔹 Login 10005001 é do administrador.
-#### 🔹 Logins 1001 até 1005 são dos professores que tem disponivel no projeto que no caso são 5.
-#### 🔹 Login do aluno é 20240005.
+#### 1- Login 10005001 é do administrador.
+#### 2- Logins 1001 até 1005 são dos cinco professores que tem disponivel no projeto,cada um com sua determinada matéria. 
+#### 3- Login do aluno é 20240005.
+
+#### 🔹 Adicionar links ao seu Projeto
+
+#### 1- Você precisa ter o link do site que você quer adicionar a disciplina ( lembrando que precisa ser sobre um assunto da disciplina)
+#### 2- coloque o link do site em Adicionar Conteudo e clique no botão +
+#### 3- Pronto,agora você terá adicionado um conteúdo na matéria escolhida,você também pode excluir o seu conteudo passando o mouse em cima do card e apagando a sua publicação,clicando no ícone de x.
 
 
 
