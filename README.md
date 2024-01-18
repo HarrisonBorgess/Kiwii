@@ -44,7 +44,7 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 #### 🔹 Como usar o projeto
 
 #### 1- Temos os Logins de Alunos,Professores e o Administrador.
-#### 2- O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela ucsal,quando for necessario.
+#### 2- O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela universidade,quando for necessario.
 #### 3- Os alunos poderão apagar somente o link que ele mesmo postar.
 #### 4- O Professor poderá apagar o link de qualquer aluno (mas somente da materia que ele ensina).
 
