@@ -52,21 +52,21 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 #### 🔹 Como usar o projeto
 
 #### 1- Temos os Logins de Alunos,Professores e o Administrador.
-#### 2- O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela universidade,quando for necessario.
-#### 3- Os alunos poderão apagar somente o link que ele mesmo postar.
-#### 4- O Professor poderá apagar o link de qualquer aluno (mas somente da materia que ele ensina).
+#### 2- O administrador pode apagar o link de qualquer pessoa, o administrador é gerenciado pela universidade,quando for necessário.
+#### 3- Os alunos poderão apagar somente o link que eles mesmos postarem.
+#### 4- O Professor poderá apagar o link de qualquer aluno (mas apenas da matéria que ele ensina).
 
 #### Logins disponiveis para o uso do projeto:
 
 #### 1- Login 10005001 é do administrador.
-#### 2- Logins 1001 até 1005 são dos cinco professores que tem disponivel no projeto,cada um com sua determinada matéria. 
+#### 2- Logins 1001 até 1005 são dos cinco professores disponíveis no projeto, cada um com sua determinada matéria.
 #### 3- Login do aluno é 20240005.
 
 #### 🔹 Adicionar links ao seu Projeto
 
 #### 1- Você precisa ter o link do site que você quer adicionar a disciplina ( lembrando que precisa ser sobre um assunto da disciplina)
 #### 2- coloque o link do site em Adicionar Conteudo e clique no botão +
-#### 3- Pronto,agora você terá adicionado um conteúdo na matéria escolhida,você também pode excluir o seu conteudo passando o mouse em cima do card e apagando a sua publicação,clicando no ícone de x.
+#### 3- Pronto,agora você terá adicionado um conteúdo na matéria escolhida,você também pode excluir o seu conteúdo passando o mouse em cima do card e apagando a sua publicação,clicando no ícone de x.
 
 #### 🔹 Contribuições
 
