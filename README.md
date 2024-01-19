@@ -13,7 +13,6 @@
 - Spring Boot e suas bibliotecas
 - HTML
 - CSS
-- Vscode
 
 ## ⚠️ Importante! ⚠️
 

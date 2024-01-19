@@ -9,5 +9,4 @@ class KiwiiApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
