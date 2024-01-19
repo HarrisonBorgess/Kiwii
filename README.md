@@ -16,15 +16,20 @@
 
 ## ⚠️ Importante! ⚠️
 
-☕ Use o Java na versão 21 e o postgreSQL (banco de dados) na versão 16 ou superior para ter compatibilidade. 
-</br></br>
+☕ Use o Java na versão 21 e o postgreSQL (banco de dados) na versão 16 ou superior para ter compatibilidade.</br></br>
+#### 🔹 Logo abaixo você deverá baixar os três principais programas
+
+#### o Java que é uma linguaguem de programação;
+#### o Banco de dados PostgreSQL;
+#### o Vscode que é um editor de código (além de baixar as extensões Java para o funcionamento do Programa farei um tutorial logo abaixo).
+
 ⬇️Link Java : https://www.oracle.com/br/java/technologies/downloads/ </br></br>
-⬇️Link VScode : https://code.visualstudio.com/ </br></br>
 ⬇️Link PostgreSQL : https://www.enterprisedb.com/downloads/postgres-postgresql-downloads </br></br>
-📝 Utilizar o editor da sua escolha,eu utilizei o vscode,mas poderia ser o eclipse ou intellij </br></br>
+⬇️Link VScode : https://code.visualstudio.com/ </br></br>
+📝Usar o editor VScode ou a IDE da sua escolha no caso o Eclipse ou o Intellij. </br></br>
 
 #### 🔹 Baixar o projeto 
-Suba para o inicio da pagina e faça o download do projeto,clique no botão code e em seguida em download zip </br></br>
+Suba para o inicio da pagina e faça o download do projeto,clique no botão code e em seguida em download zip. </br></br>
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/c50040c7-e9f3-4e4a-9c6c-ca75ccd0e0e3) </br></br>
 
 #### 🔹 Configurar o projeto
