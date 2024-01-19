@@ -36,6 +36,7 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 #### 1 - Extraia o arquivo e abra o vscode 
 #### 2- Clique no icone de Extensão e pesquise na barra Pack Java (Pacote Java).
 #### 3- Faça o Download da extensão da microsoft, esse pack baixará todo o pacote Java
+![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/129a1a4d-98fa-4285-bd6c-a47ce25815f2)
 #### 4- Agora Arraste o arquivo extraido para dentro do Vscode
 #### 5- Abra o PostgreSQL e clique em servers, ele irá pedir uma senha você poderá colocar a mesma do projeto que é admin </br></br>
 #### 6- Aberto o PostgreSQL, clique com o botão direito em PostgreSQL 16 - create - Database
