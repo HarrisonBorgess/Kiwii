@@ -63,10 +63,7 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 
 #### 🔹 Contribuições
 
-#### @HarrisonBorges
-#### @OseiasLopes
-#### @IagoRoque
-#### @MarcosPacheco
+#### Esse projeto foi desenvolvido por mim Harrison Borges e pelos desenvolvedores Oseias Lopes,Iago Roque e Marcos Pacheco.
 
 
 
