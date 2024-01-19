@@ -34,17 +34,19 @@ Suba para o inicio da pagina e faça o download do projeto,clique no botão code
 
 #### 🔹 Configurar o projeto
 #### 1 - Extraia o arquivo e abra o vscode 
-#### 2- Arraste o arquivo extraido para dentro do Vscode
-#### 3- Abra o PostgreSQL e clique em servers, ele irá pedir uma senha você poderá colocar a mesma do projeto que é admin </br></br>
-#### 4- Aberto o PostgreSQL, clique com o botão direito em PostgreSQL 16 - create - Database
+#### 2- Clique no icone de Extensão e pesquise na barra Pack Java (Pacote Java).
+#### 3- Faça o Download da extensão da microsoft, esse pack baixará todo o pacote Java
+#### 4- Agora Arraste o arquivo extraido para dentro do Vscode
+#### 5- Abra o PostgreSQL e clique em servers, ele irá pedir uma senha você poderá colocar a mesma do projeto que é admin </br></br>
+#### 6- Aberto o PostgreSQL, clique com o botão direito em PostgreSQL 16 - create - Database
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/f6840f4e-d853-4c42-9cf4-a4e2226f4751) 
-#### 5- Coloque o nome da database como Kiwii e dê um save </br></br>
+#### 7- Coloque o nome da database como Kiwii e dê um save </br></br>
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/e7095f35-a0b9-447d-b94b-e6f5fab9d8c1) 
-#### 6- Feito isso você deve ir ao seu Vscode e dar um Run no Projeto,para fazer isso clique na pasta Kiwii - src - main - KiwiiApplication e clique no run </br></br>
+#### 8- Feito isso você deve ir ao seu Vscode e dar um Run no Projeto,para fazer isso clique na pasta Kiwii - src - main - KiwiiApplication e clique no run </br></br>
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/1cc9e43b-ca1a-4638-8f1c-204a78c41bd0)  
-#### 7- Abra o seu navegador e na barra de pesquisa, e digite  localhost:8080 e dê enter
+#### 9- Abra o seu navegador e na barra de pesquisa, e digite  localhost:8080 e dê enter
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/514e155e-98b5-45eb-ab8b-bada92fa74f9)
-#### 8- você terá chegado a tela inicial do projeto
+#### 10- você terá chegado a tela inicial do projeto
 ![image](https://github.com/HarrisonBorgess/Kiwii/assets/73191690/211a8a38-cb17-485f-bd27-a141786ebaf8)
 
 #### 🔹 Como usar o projeto
